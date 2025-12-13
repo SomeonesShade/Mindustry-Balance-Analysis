@@ -8,4 +8,5 @@ TODO links are empty
   - **Niche Analysis** [🔗]() - _(Subdiscipline)_ Analyzes what role a specific content has, depending on pacing or tempo.
 - **The Implementation Problem** [🔗]() - How to handle, categorize, and adress concerns or feedback as well as chosing the optimal solution based on implementation concerns.
   - **Problem Set Analysis** [🔗]() - _(Subdiscipline)_ How to tell if something is an actual issue.
-  - **The Standards of Proposals** [🔗]() - _(Subdiscipline)_ How to make a good proposal.
+  - **The Cost of Ideas** [🔗]() - _(Subdiscipline)_ How to evaluate ideas and develop practical propsals from ideals.
+  - **The Standards of Proposals** [🔗]() - _(Subdiscipline)_ How to make a good written output of a proposal.
