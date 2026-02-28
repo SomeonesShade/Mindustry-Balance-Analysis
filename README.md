@@ -1,4 +1,10 @@
 # Mindustry Balance Analysis
+---
+
+Transfered to this place
+- https://github.com/Mindustry-Balancing/Mindustry-Balance-Analysis/tree/main
+
+---
 A repository made to document problem sets, mechanics, and specific analysis for referencing in suggestions, prs, or general discussion.  
 ...It's still in the works, todos, and whatnot, so its not finished and mainly empty
 
